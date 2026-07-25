@@ -12,7 +12,7 @@ Dashboard Development
 Business Insights
 
 
-Objective
+# Objective
 
 Analyze student performance and answer questions like:
 
@@ -21,7 +21,10 @@ Does study time improve grades?
 Does internet access improve academic performance?
 Which students are at risk?
 How does performance affect placement?
-Technologies Used
+
+
+
+# Technologies Used
 Python
 Pandas
 NumPy
@@ -42,7 +45,7 @@ Extra Activities vs Marks
 Correlation Heatmap
 Feature Engineering
 
-Created:
+# Created:
 
 Average Score
 Performance Level
